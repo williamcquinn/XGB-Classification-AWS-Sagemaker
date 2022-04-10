@@ -3,12 +3,12 @@ Building, training and deploying a XGBoost Classification model leveraging AWS S
 
 Tasks:
 
-• Perform Exploratory Data Analysis on the given dataset
+• Perform Exploratory Data Analysis on an employees dataset
 
-• Save preprocessed datasets to Amazon S3
+• Saved preprocessed datasets to Amazon S3
 
-• Use the Amazon Sagemaker platform to train an XGBoost model
+• Used the Amazon Sagemaker platform to train an XGBoost model
 
-• Evaluate the model on the test set
+• Evaluated the model on the test set
 
-• Perform hyperparameter tuning on the XGBoost model
+• Performed hyperparameter tuning on the XGBoost model
