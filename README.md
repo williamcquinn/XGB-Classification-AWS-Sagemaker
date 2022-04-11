@@ -1,16 +1,14 @@
 # XGB-Classification-AWS-Sagemaker
 Building, training and deploying a XGBoost Classification model leveraging AWS Sagemaker & S3.
 
-Tasks:
+This Jupyter Notebook contains:
 
-• Perform Exploratory Data Analysis on an employees dataset (Data Cleaning, Imputation, Outlier Removal, Discretized Label Field)
+• Exploratory Data Analysis on an employees dataset (Data Cleaning, Imputation, Outlier Removal, Discretized Label Field)
 
-• Saved preprocessed datasets to Amazon S3
+• Use of the Amazon Sagemaker platform to train an XGBoost model
 
-• Used the Amazon Sagemaker platform to train an XGBoost model
+• Deployment and evaluation of the model on the testing set
 
-• Deployed and evaluated the model on the test set
+• Hyperparameter tuning on the XGBoost model
 
-• Performed hyperparameter tuning on the XGBoost model
-
-• Deployed and evaluated the tuned model on the test set
+• Deployment and evaluation of the tuned model on the testing set
