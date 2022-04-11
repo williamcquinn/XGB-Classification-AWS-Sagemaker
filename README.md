@@ -5,10 +5,10 @@ This Jupyter Notebook contains:
 
 • Exploratory Data Analysis on an employees dataset (Data Cleaning, Imputation, Outlier Removal, Discretized Label Field)
 
-• Use of the Amazon Sagemaker platform to train an XGBoost model
+• Use of AWS Sagemaker platform to train an XGBoost model
 
 • Deployment and evaluation of the model on the testing set
 
 • Hyperparameter tuning on the XGBoost model
 
-• Deployment and evaluation of the tuned model on the testing set
+• Re-deployment and evaluation of the tuned model on the testing set
